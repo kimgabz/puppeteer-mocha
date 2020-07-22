@@ -1,0 +1,5 @@
+npm install --save puppeteer mocha chai
+
+npm install --save mocha-steps
+
+npm isntall --save-dev babel-cli babel-preset-es2015
